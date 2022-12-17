@@ -1,5 +1,11 @@
+import Heading from "../components/Heading";
+
 const Posts = () => {
-  return <div>Posts List</div>;
+  return (
+    <>
+      <Heading text="Posts" />
+    </>
+  );
 };
 
 export default Posts;
