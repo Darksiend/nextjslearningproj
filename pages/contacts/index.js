@@ -2,4 +2,4 @@ const Contacts = () => {
   return <div>Contacts</div>;
 };
 
-export default Index;
+export default Contacts;
